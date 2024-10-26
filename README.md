@@ -1,3 +1,3 @@
 A tribute to the Rubber Duck Debugging method of debugging software.
 
-Visit: [rubberduckdebugging.com](https://rubberduckdebugging.com)
+Visit: [https://sayururehan.github.io/quackdebugging/](https://sayururehan.github.io/quackdebugging/)
